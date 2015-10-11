@@ -1,0 +1,13 @@
+# Site settings
+title: My Blog (I'm bad at names)
+email: miles.frankel@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+             Hi! I'm Miles. I am a student and a coder and this is my blog. Welcome.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://asg0451.github.io" # the base hostname & protocol for your site
+twitter_username: asg0451
+github_username:  asg0451
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
