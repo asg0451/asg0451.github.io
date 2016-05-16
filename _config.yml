@@ -7,25 +7,25 @@ highlighter: pygments
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Miles Frankel
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Miles Frankel
 
-description: Stylish Jekyll Theme
+description: Miles Frankel\'s Site
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Miles Frankel
+  email: miles.frankel@gmail.com
+  github: asg0451
+#  twitter: dbtek
+#  pinterest: asd123
+  linkedin: asg0451
+  bio: NYC-based Software Engineer
+  email_md5: 55f01f4b05fc67079389e0b9c80cf0ab
 
 rss_path: feed.xml
 categories_path: categories.html
